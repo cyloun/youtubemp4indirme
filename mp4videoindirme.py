@@ -1,4 +1,4 @@
-from pytube import YouTube
+from pytube import YouTube #### v0.9.1 sürümü
 from tkinter import *
 from tkinter import messagebox
 from PIL import ImageTk, Image
