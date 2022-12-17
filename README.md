@@ -1,2 +1,2 @@
 # youtubemp4indirme
-Bunu buraya yüklememdeki tek amaç ilerde açıp bu zamandaki kodlama bilgimi görmem.
+Youtube'dan MP4 videolarını indirebileceğiniz Python ile yazılmış bir program.
